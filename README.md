@@ -2,7 +2,7 @@
 
 Practicum project for MS Data Science at Regis University.
 
-I built a pipeline that takes any retail sales CSV, figures out which columns are dates/sales/categories on its own, and runs forecasting + regression + anomaly detection without the user needing to rename anything.
+I created a pipeline that takes any retail sales CSV, figures out which of these columns are dates/sales/categories on its own, and runs forecasting + regression + anomaly detection without the user having to rename anything.
 
 ## What's in here
 
