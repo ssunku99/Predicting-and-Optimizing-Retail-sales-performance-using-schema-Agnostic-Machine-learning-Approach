@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+data/
+
+# ML models
+*.pkl
+*.h5
+*.joblib
+*.model
+
+# IDE
+.vscode/
+.DS_Store
