@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+rapidfuzz
+flaml
+prophet
+autots
+lightgbm
+xgboost
+openpyxl
+ydata-profiling
+chronos-forecasting
+torch
+statsmodels
+groq
